@@ -1,0 +1,28 @@
+.h1{
+    font-size: 50px;
+    font-family: cursive;
+    color: black;
+}
+p{
+    color: rgba(245, 245, 245, 0.795);
+    font-size: 35px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 7px;
+}
+h1{
+    font-size: 37px;
+    color: darkolivegreen;
+    margin: 5px 5px 5px 10px;
+    font-style: italic;
+    font-family: monospace;
+}
+.p{
+    color: whitesmoke;
+}
+a{
+    font-size: 45px;
+    padding: 7px;
+    text-decoration: none;
+    color: lightblue;
+}

@@ -1,0 +1,31 @@
+.h1{
+    font-size: 35px;
+    font-family: cursive;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    font-family:monospace;
+}
+li{
+    list-style-type: none;
+    font-size: 25px;
+    color: whitesmoke;
+}
+span{
+    font-style: italic;
+}
+.p{
+    font-size: 25px;
+    color: whitesmoke;
+    border: 5px solid red;
+}
+a{
+    font-size: 45px;
+    text-decoration: none;
+    color: lightblue;
+    font-family: cursive;
+    padding: 7px;
+}
+  

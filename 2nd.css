@@ -1,0 +1,19 @@
+.h1{
+    font-size: 40px;
+    font-family: cursive;
+}
+li{
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: monospace;
+}
+h1{
+    margin: 5px 0px 4px 5px;
+    font-family: cursive;
+}
+a{
+    font-size: 35px;
+    padding: 7px;
+    text-decoration: none;
+    color: lightblue;
+}

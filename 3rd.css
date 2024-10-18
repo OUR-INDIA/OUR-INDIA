@@ -1,0 +1,25 @@
+.h1{
+    font-size: 37px;
+    font-style: italic;
+    font-family:cursive;
+}
+ul{
+    list-style-type: square;
+}
+li{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: aliceblue;
+}
+h1{
+    font-family: monospace;
+    font-style: italic;
+}
+a{
+    padding: 7px;
+    font-size: 40px;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: dotted;
+    color: black;
+}

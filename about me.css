@@ -1,0 +1,18 @@
+body{
+    background: rgb(231, 231, 215);
+}
+div{
+    margin: 5vw 40vw 0vw 5vw;
+    background-color: lightblue;
+    border-radius: 2vw;
+    padding: 1vw;
+}
+img {
+    height: auto;
+    width: 20vw;
+    float: right;
+}
+a {
+    padding:8vw;
+    font-size: 1.5vw;
+}

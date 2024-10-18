@@ -1,0 +1,16 @@
+.temple{
+    font-size: 40px;
+    font-family:cursive;
+}
+li{
+    padding: 5px;
+    font-size: 3vw;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:lightgoldenrodyellow;
+}
+a{
+    padding: 8px;
+    font-size: 2.5vw;
+    text-decoration: none;
+    color: goldenrod;
+}

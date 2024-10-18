@@ -1,0 +1,28 @@
+.h1{
+    font-style: italic;
+    font-size: 38px;
+    font-family: cursive;
+    color: black;
+}
+h1{
+    padding: 10px;
+    margin: 10px;
+    font-family: monospace;
+    font-size: 35px;
+    color: rosybrown;
+}
+.header{
+    color: aliceblue;
+    font-size: 24px;
+}
+p{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+a{
+    font-size: 35px;
+    padding: 7px;
+    text-decoration: none;
+    color: lightblue;
+}
